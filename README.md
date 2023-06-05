@@ -5,11 +5,11 @@
 
 - 🔭 I`m currently studying DevOps at **NanaTechWorld bootcamp**
 
-- 🌱 I’m currently learning **Python , Ansible and Prometheus .**
+- 🌱 I’m currently learning **Python , Ansible and Prometheus.**
 
 - 📫 How to reach me **Lioryasharzada@gmail.com**
 
-- 👋 Just for fun  **Playing competitive volleyball for over a decade**
+- 👋 Just for fun  **Playing competitive volleyball for over a decade.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
