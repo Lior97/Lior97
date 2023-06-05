@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://wgmimedia.com/wp-content/uploads/2023/05/Become-More-Productive-With-ChatGPT.gif">
 
 
-- 🔭 I`m currently studying DevOps at **NanaTechWorld bootcamp**
+- 🔭 I`m currently studying DevOps at **NanaTechWorld bootcamp.**
 
 - 🌱 I’m currently learning **Python , Ansible and Prometheus.**
 
