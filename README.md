@@ -5,7 +5,7 @@
 
 - 🔭 I`m currently studying DevOps at **NanaTechWorld bootcamp.**
 
-- 🌱 I’m currently learning **Python , Ansible and Prometheus.**
+- 🌱 I’m currently learning ** Ansible and Prometheus.**
 
 - 📫 How to reach me **Lioryasharzada@gmail.com**
 
