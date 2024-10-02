@@ -2,12 +2,7 @@
 <h3 align="center">DevOps engineer from Israel.</h3>
 <img align="right" alt="Coding" width="400" src="https://wgmimedia.com/wp-content/uploads/2023/05/Become-More-Productive-With-ChatGPT.gif">
 
-
-- 🔭 I’m currently learning **GCP and Azure.**
-
 - 📫 How to reach me **Lioryasharzada@gmail.com**
-
-- 👋 Just for fun  **Playing competitive volleyball for over a decade.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
